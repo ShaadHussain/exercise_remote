@@ -1,7 +1,7 @@
 
 https://igorvoitenko.com/from0to100
 
-## Shoulder Day
+### Shoulder Day
 
 ![[Pasted image 20251201092200.png]]
 
@@ -17,7 +17,7 @@ Fix these in 8 Min: https://youtu.be/Z0G2fLP9Hl0
 
 
 
-## Arms Day
+### Arms Day
 
 ![[Pasted image 20251201092309.png]]
 

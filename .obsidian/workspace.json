@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workout_Tracker.md",
+                "file": "Shoulder_and_Tricep_Routine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workout_Tracker"
+              "title": "Shoulder_and_Tricep_Routine"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workout_Tracker.md",
+                "file": "Shoulder_and_Tricep_Routine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Workout_Tracker"
+              "title": "Backlinks for Shoulder_and_Tricep_Routine"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workout_Tracker.md",
+                "file": "Shoulder_and_Tricep_Routine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Workout_Tracker"
+              "title": "Outgoing links from Shoulder_and_Tricep_Routine"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workout_Tracker.md",
+                "file": "Shoulder_and_Tricep_Routine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Workout_Tracker"
+              "title": "Outline of Shoulder_and_Tricep_Routine"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "2d8bc8c7a7aea2ae",
   "lastOpenFiles": [
-    "Shoulder_and_Tricep_Routine.md",
     "Workout_Tracker.md",
+    "Shoulder_and_Tricep_Routine.md",
     "attachments/Pasted image 20251201092309.png",
     "Pasted image 20251201092112.png",
     "attachments/Pasted image 20251201092200.png",

@@ -1,19 +1,16 @@
 
 https://igorvoitenko.com/from0to100
 
-### Shoulder Day
 
-![[Pasted image 20251201092200.png]]
+## New Shoulder Day:
 
 
-All Links:
+Shoulder stretch: https://youtu.be/uorIsoPLjsE?si=YdlXCEhLvnj3BZft&t=63
 
-Quick Warm Up Routine: https://youtu.be/ZO2ZwicxCEs
-6 Min Shoulders: https://www.youtube.com/watch?v=tKU64bd4gaw
 
-(These two aren't as necessary)
-28 Days: https://youtu.be/TIMghHu6QFU
-Fix these in 8 Min: https://youtu.be/Z0G2fLP9Hl0
+6 min Big Shoulders Workout:
+
+https://www.youtube.com/watch?v=QWS7mjdbw7k&list=PL_7zYcYGn_uicgfegmLzyn_znuwnMnz4G&index=2
 
 
 
@@ -26,3 +23,21 @@ Quick Warm Up Routine: https://youtu.be/ZO2ZwicxCEs
 - This is a generic fat loss workout - not specific to arms, skipping now 
 Big Arms in 8 Minutes: https://youtu.be/wwKb-wZCEjs
 
+
+
+
+Old Shoulder Day
+
+### Shoulder Day
+
+![[Pasted image 20251201092200.png]]
+
+
+All Links:
+
+Quick Warm Up Routine: https://youtu.be/ZO2ZwicxCEs
+~~6 Min Shoulders: https://www.youtube.com/watch?v=tKU64bd4gaw
+
+(These two aren't as necessary)
+28 Days: https://youtu.be/TIMghHu6QFU
+Fix these in 8 Min: https://youtu.be/Z0G2fLP9Hl0

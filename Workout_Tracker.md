@@ -13,3 +13,5 @@ Dec 4, 2025 - Rest
 
 Dec 5, 2025 - Arms day
 
+Dec 7, 2025 - Shoulder day completed
+

@@ -5,7 +5,7 @@ https://igorvoitenko.com/from0to100
 ## New Shoulder Day:
 
 
-Shoulder stretch: https://youtu.be/uorIsoPLjsE?si=YdlXCEhLvnj3BZft&t=63
+Shoulder stretch: https://youtu.be/uorIsoPLjsE?si=rVLMZdM_Y2akykmt&t=71
 
 
 6 min Big Shoulders Workout:

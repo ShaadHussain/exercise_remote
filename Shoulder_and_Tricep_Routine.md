@@ -28,7 +28,7 @@ Big Arms in 8 Minutes: https://youtu.be/wwKb-wZCEjs
 
 Old Shoulder Day
 
-### Shoulder Day
+### ~~Shoulder Day (ignore)
 
 ![[Pasted image 20251201092200.png]]
 

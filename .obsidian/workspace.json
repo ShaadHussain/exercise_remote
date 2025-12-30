@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbf8c3fba27e7ee6",
+  "active": "2d8bc8c7a7aea2ae",
   "lastOpenFiles": [
-    "Workout_Tracker.md",
     "Jump Rope Routine.md",
+    "Workout_Tracker.md",
     "Shoulder_and_Tricep_Routine.md",
     "attachments/Pasted image 20251201092309.png",
     "Pasted image 20251201092112.png",

@@ -16,3 +16,7 @@ Dec 5, 2025 - Arms day
 Dec 7, 2025 - Shoulder day completed
 
 Dec 15, 2025 - Arms day completed
+
+Dec 29, 2025 - Shoulder day com
+
+Dec 30, 2025 - 

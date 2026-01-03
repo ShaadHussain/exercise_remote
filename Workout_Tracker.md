@@ -19,4 +19,8 @@ Dec 15, 2025 - Arms day completed
 
 Dec 29, 2025 - Shoulder day com
 Dec 30, 2025 - Arms day completed
+Dec 31, 2025 - Break
 
+
+Jan 1, 2026 - Missed
+Jan 2, 2026 - Shoulder day completed

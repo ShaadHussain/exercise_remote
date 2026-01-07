@@ -25,5 +25,10 @@ Dec 31, 2025 - Break
 Jan 1, 2026 - Missed
 Jan 2, 2026 - Shoulder day completed
 Jan 3, 2026 - Did 3 sets of dumbbell curls
+Jan 4, 2026   - Missed
+Jan 5, 2026 - Missed
+
+Jan 6, 2026 - Shoulder day completed, with 7 calisthenic lateral raises each side
+
 
 

@@ -30,5 +30,5 @@ Jan 5, 2026 - Missed
 
 Jan 6, 2026 - Shoulder day completed, with 7 calisthenic lateral raises each side
 
-
+Jan 10, 2026 - 2 sets of 3x8 of hammer curls 
 

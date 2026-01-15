@@ -32,3 +32,6 @@ Jan 6, 2026 - Shoulder day completed, with 7 calisthenic lateral raises each sid
 
 Jan 10, 2026 - 2 sets of 3x8 of hammer curls 
 
+Jan 14, 2026 - 4 sets of 8 hammer curls 
+
+

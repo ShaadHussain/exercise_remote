@@ -36,3 +36,5 @@ Jan 14, 2026 - 4 sets of 8 hammer curls
 
 Jan 23, 2026 - Hammer curls 3 sets of 8, 3 more sets of 6-8
 
+Jan 26, 2026 - Hammer curls 1st set was 10 each, last 5 sets were 6-8
+

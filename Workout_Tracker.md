@@ -38,3 +38,8 @@ Jan 23, 2026 - Hammer curls 3 sets of 8, 3 more sets of 6-8
 
 Jan 26, 2026 - Hammer curls 1st set was 10 each, last 5 sets were 6-8
 
+
+Feb 1, 2026 - 100 bodyweight squats
+Feb 2, 2026 - 100 bodyweight squats
+Feb 3, 2026 - 100 bodyweight squats and 6 sets of hammer curls 
+

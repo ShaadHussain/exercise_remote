@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "346de06ff2b23d5e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "dbf8c3fba27e7ee6",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Jump Rope Routine"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8bc8c7a7aea2ae",
+  "active": "346de06ff2b23d5e",
   "lastOpenFiles": [
     "Jump Rope Routine.md",
     "Workout_Tracker.md",

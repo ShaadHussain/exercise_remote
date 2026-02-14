@@ -47,8 +47,7 @@
               "title": "Jump Rope Routine"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "346de06ff2b23d5e",
+  "active": "d716f9059c32ad77",
   "lastOpenFiles": [
     "Jump Rope Routine.md",
     "Workout_Tracker.md",

@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "346de06ff2b23d5e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
-          },
-          {
             "id": "dbf8c3fba27e7ee6",
             "type": "leaf",
             "state": {
@@ -76,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,12 +213,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "346de06ff2b23d5e",
+  "active": "8edf1c18aa316b98",
   "lastOpenFiles": [
     "Workout_Tracker.md",
+    "Jump Rope Routine.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Jump Rope Routine.md",
     "Shoulder_and_Tricep_Routine.md",
     "attachments/Pasted image 20251201092309.png",
     "Pasted image 20251201092112.png",

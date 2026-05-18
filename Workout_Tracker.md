@@ -44,3 +44,6 @@ Feb 2, 2026 - 100 bodyweight squats
 Feb 3, 2026 - 100 bodyweight squats and 6 sets of hammer curls 
 
 Mar 29, 2026 - 6 sets of hammer curls 
+
+May 18, 2026 - Shoulder workout 
+

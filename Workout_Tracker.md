@@ -48,3 +48,5 @@ Mar 29, 2026 - 6 sets of hammer curls
 May 18, 2026 - Shoulder workout 
 
 May 20, 2026 - Triceps workout
+
+May 21, 2026 - s Shoulder workout done

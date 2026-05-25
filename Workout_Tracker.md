@@ -54,3 +54,5 @@ May 21, 2026 - s Shoulder workout done
 May 22, 2026 - Triceps workout done
 
 May 23, 2026 - Shoulder workout done 
+
+May 24, 2026 - tricepd done

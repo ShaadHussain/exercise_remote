@@ -57,3 +57,4 @@ May 23, 2026 - Shoulder workout done
 
 May 24, 2026 - triceps done
 
+May 25, 2026 - skipped, missed because of thai restaurant driving, not an excuse though 

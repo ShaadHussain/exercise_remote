@@ -61,3 +61,5 @@ May 25, 2026 - skipped, missed because of thai restaurant driving, not an excuse
 
 May 26, 2026 - Skipped, was fasting arafah, could have done it in the evening though 
 
+May 27, 2026 - shoulder workout done
+

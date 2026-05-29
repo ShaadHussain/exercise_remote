@@ -1,4 +1,15 @@
-	
+
+
+Shoulder warmup: https://www.youtube.com/watch?v=uorIsoPLjsE&t=71s
+
+Shoulder exercise: https://www.youtube.com/watch?v=QWS7mjdbw7k&list=PL_7zYcYGn_uicgfegmLzyn_znuwnMnz4G&index=3
+
+Triceps exercise (no warmup):
+https://www.youtube.com/watch?v=tdafXbhcSuo
+
+
+
+
 
 Nov 29, 2025 - Shoulder day completed
 Nov 30, 2025 - Arms day completed without the chest 10 min workout
@@ -45,6 +56,12 @@ Feb 3, 2026 - 100 bodyweight squats and 6 sets of hammer curls
 
 Mar 29, 2026 - 6 sets of hammer curls 
 
+
+================================================================
+# May 
+================================================================
+
+
 May 18, 2026 - Shoulder workout 
 
 May 20, 2026 - Triceps workout
@@ -62,4 +79,6 @@ May 25, 2026 - skipped, missed because of thai restaurant driving, not an excuse
 May 26, 2026 - Skipped, was fasting arafah, could have done it in the evening though 
 
 May 27, 2026 - shoulder workout done
+
+May 28, 2026 - Triceps workout done
 

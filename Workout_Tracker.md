@@ -84,3 +84,7 @@ May 28, 2026 - Triceps workout done
 
 May 30, 2026. - shoulder workout finished
 
+I feel so good right now alhamdulilah alhamdulilah. I haven't watched any TV shows in over a month now roughly (I'll double check the date), my triceps alhamdulilah are looking bigger and I no longer feel the need to watch basketball endlessly and waste my time. I feel so good and I want to keep this up as long as I can inshallah. I don't ever want to watch tv again, I feel like it's such a drain on my time. What I'm now doing is watching like 10 minutes of basketball, realizing I could be doing stuff and  Keep this up inshallah and keep saying alhamdulilah. 
+
+Don't forget - you made dua for Allah SWT to help you stop wasting time, and He SWT did. Say alhamdulilah often. 
+

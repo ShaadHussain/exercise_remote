@@ -93,4 +93,5 @@ Don't forget - you made dua for Allah SWT to help you stop wasting time, and He 
 ================================================================
 
 
-May 30, 2026 - 
+May 30, 2026 - triceps done
+

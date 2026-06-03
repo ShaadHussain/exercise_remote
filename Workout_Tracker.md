@@ -97,4 +97,6 @@ May 30, 2026 - triceps done
 
 May 31, 2026 - shoulders done
 
-Jun 1, 2026 - 
+Jun 1, 2026 - Triceps done
+
+Jun 2, 2026 - shoulders done

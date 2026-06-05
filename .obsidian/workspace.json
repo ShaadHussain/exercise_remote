@@ -77,8 +77,7 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,10 +226,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c09645820163dde",
+  "active": "2d8bc8c7a7aea2ae",
   "lastOpenFiles": [
-    "Workout_Tracker.md",
     "You dont need as much protein as you think you do.md",
+    "Workout_Tracker.md",
     "Untitled.md",
     "Jump Rope Routine.md",
     "Untitled 2.md",

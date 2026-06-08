@@ -107,6 +107,10 @@ Jun 4, 2026 - shoulders done
 
 Jun 5, 2026 - triceps finished
 
-Jun 6, 2026 - Missed, had the Amnesty conference
+Jun 6, 2026 - Missed, had the Amnesty conference, not an excuse though
+
+Jun 7, 2026 - shoulders finished
+
+
 
 

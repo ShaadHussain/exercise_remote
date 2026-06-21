@@ -10,7 +10,6 @@ https://www.youtube.com/watch?v=tdafXbhcSuo
 
 
 
-
 Nov 29, 2025 - Shoulder day completed
 Nov 30, 2025 - Arms day completed without the chest 10 min workout
 Dec 1, 2025 - Rest
@@ -113,6 +112,7 @@ Jun 7, 2026 - shoulders finished
 
 Jun 8, 2026 - triceps done
 
+Jun 11, 2026 - triceps finished
 
 
 

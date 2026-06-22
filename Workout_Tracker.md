@@ -115,4 +115,5 @@ Jun 8, 2026 - triceps done
 Jun 11, 2026 - triceps finished
 
 
-
+Jun 20, 2026 - 6 sets of biceps curls (with 20 lb weight you got from Dick's yesterday)
+Jun 21, 2026 - triceps finished

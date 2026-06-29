@@ -120,3 +120,7 @@ Jun 20, 2026 - 6 sets of biceps curls (with 20 lb weight you got from Dick's yes
 Jun 21, 2026 - triceps finished
 
 Jun 26, 2026 - 3 sets of bicep curls, 3 sets hammer curls
+
+Jun 27, 2026 - big appa fight, didn't get much done
+
+Jun 28, 2026 - triceps done 

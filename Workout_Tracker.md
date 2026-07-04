@@ -124,3 +124,5 @@ Jun 26, 2026 - 3 sets of bicep curls, 3 sets hammer curls
 Jun 27, 2026 - big appa fight, didn't get much done
 
 Jun 28, 2026 - triceps done 
+
+Jul 3, 2026 - Tendons were hurting, you were lifting too heavy and/or 

@@ -125,4 +125,7 @@ Jun 27, 2026 - big appa fight, didn't get much done
 
 Jun 28, 2026 - triceps done 
 
-Jul 3, 2026 - Tendons were hurting, you were lifting too heavy and/or 
+Jul 3, 2026 - Tendons were hurting, you were lifting too heavy and/or clenching the dumbbell too tightly, both can cause tendonitis. 
+
+Jul 9, 2026 - Tendons feeling MUCH better, almost feel fully healed. I'll give it a couple more days and then start again
+

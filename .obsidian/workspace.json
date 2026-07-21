@@ -91,8 +91,7 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,10 +240,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e2d0f91462dd619",
+  "active": "2d8bc8c7a7aea2ae",
   "lastOpenFiles": [
-    "Workout_Tracker.md",
     "Untitled 3.md",
+    "Workout_Tracker.md",
     "You dont need as much protein as you think you do.md",
     "Untitled.md",
     "conflict-files-obsidian-git.md",

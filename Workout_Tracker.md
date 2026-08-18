@@ -130,4 +130,4 @@ Jul 3, 2026 - Tendons were hurting, you were lifting too heavy and/or clenching 
 Jul 9, 2026 - Tendons feeling MUCH better, almost feel fully healed. I'll give it a couple more days and then start again
 
 
-	Aug 13, 2026 - 6 sets hammer curls 
+Aug 13, 2026 - 6 sets hammer curls 

@@ -132,3 +132,8 @@ Jul 9, 2026 - Tendons feeling MUCH better, almost feel fully healed. I'll give i
 
 Aug 13, 2026 - 6 sets hammer curls 
 
+Aug 15, 2026 - 6 sets hammer curls, tendons were hurting
+
+
+Aug 19, 2026 - 6 sets hammer curls, 15 was hurting my tricep (or is it tendon? Idk, felt like tricept though) so did 6 sets of 20 with 10 weights
+

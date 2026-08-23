@@ -137,3 +137,4 @@ Aug 15, 2026 - 6 sets hammer curls, tendons were hurting
 
 Aug 19, 2026 - 6 sets hammer curls, 15 was hurting my tricep (or is it tendon? Idk, felt like tricept though) so did 6 sets of 20 with 10 weights
 
+Aug 22, 2026 - 6 sets hammer curls, 15s were fine. It was hurting initially and then i changed my form so that the 

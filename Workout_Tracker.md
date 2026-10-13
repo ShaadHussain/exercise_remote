@@ -7,7 +7,7 @@ Shoulder exercise: https://www.youtube.com/watch?v=QWS7mjdbw7k&list=PL_7zYcYGn_u
 Triceps exercise (no warmup):
 https://www.youtube.com/watch?v=tdafXbhcSuo
 
-
+ 
 
 
 Nov 29, 2025 - Shoulder day completed

@@ -88,9 +88,19 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "d2483414d95ad5f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -241,7 +251,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "085fe200822259b7",
+  "active": "d2483414d95ad5f1",
   "lastOpenFiles": [
     "You dont need as much protein as you think you do.md",
     "Untitled 2.md",

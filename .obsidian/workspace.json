@@ -100,9 +100,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.14.5"
             }
+          },
+          {
+            "id": "6081479150afe022",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -253,7 +265,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2483414d95ad5f1",
+  "active": "6081479150afe022",
   "lastOpenFiles": [
     "You dont need as much protein as you think you do.md",
     "Untitled 2.md",
